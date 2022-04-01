@@ -1,4 +1,4 @@
-# CRUD-Operation ( details page submission with crud)
+# CRUD-Operation with details page
 ## Sreenshoot:
 ![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Screenshot%20(51).png)
 
