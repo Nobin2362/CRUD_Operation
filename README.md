@@ -1,6 +1,6 @@
 # CRUD-Operation_details page
 # Output:
-![curd-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Screenshot%20(51).png
+![crud-Op](https://github.com/Nobin2362/CRUD_Operation/blob/main/Screenshot%20(51).png
 
 
 # Code: 
