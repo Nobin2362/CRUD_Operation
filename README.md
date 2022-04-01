@@ -1,4 +1,4 @@
-# CRUD-Operation ( details page submission with crud)
+# CRUD-Operation ( details page)
 ## Output:
 ![curd-Op](https://user-images.githubusercontent.com/67409313/161131924-823cd8e2-d13a-438a-98e8-42495d4c07f9.PNG)
 
